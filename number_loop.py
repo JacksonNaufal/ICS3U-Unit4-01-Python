@@ -5,7 +5,6 @@
 # This is a loop number adder
 
 
-
 def main():
 
     # This is aloop number adder with try and catch
@@ -18,15 +17,12 @@ def main():
     # process & output
     try:
         number = int(number_string)
-    
+
         while loop_number < number:
             loop_number = loop_number + 1
             total = total + loop_number
         else:
             print("The sum off all numbers from 1 to {0} is {1}.".format(number, total))
-    
-    
- 
 
     except Exception:
         print("\nThat was not an integer")
@@ -35,4 +31,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
