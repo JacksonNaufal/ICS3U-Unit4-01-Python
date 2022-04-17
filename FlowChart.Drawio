@@ -99,10 +99,10 @@
                 <mxCell id="43" value="loop_number&amp;nbsp; =&lt;br&gt;Integer_number" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
                     <mxGeometry x="510" y="-32.5" width="130" height="75" as="geometry"/>
                 </mxCell>
-                <mxCell id="49" value="set total = 0&lt;br&gt;loop_number = 0" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="49" value="loop_number = 0" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="350" y="-410" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="50" value="" style="edgeStyle=none;rounded=0;html=1;endArrow=none;" edge="1" parent="1" source="22" target="49">
+                <mxCell id="50" value="" style="edgeStyle=none;rounded=0;html=1;endArrow=none;" parent="1" source="22" target="49" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="410" y="-420" as="sourcePoint"/>
                         <mxPoint x="410" y="-290" as="targetPoint"/>
